@@ -1,0 +1,46 @@
+body{
+    font-family: "Poppins", sans-serif;
+
+}
+
+header {
+  background-color: #0b88a8;
+  font-family: "Poppins", sans-serif;
+}
+
+header nav ul {
+  background-color: #0b88a8;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 12%;
+  height: 100%; 
+  position: fixed;
+  overflow: auto;
+  text-align:center;
+
+}
+
+article {
+ 
+  background-color: #a6dc8c;
+  text-align: center;
+  list-style-position: inside;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+
+#author {
+  text-align: end;
+}
+
+footer {
+  text-align: center;
+  background-color: #f66b0e;
+  list-style-position: inside;
+}
